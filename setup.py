@@ -5,7 +5,7 @@ import sys
 cv_ver = ""
 keras_ver = ">=2.0.0"
 if sys.version_info.major < 3:
-      cv_ver = "<=4.2.0.32" 
+      cv_ver = "<=4.8.0.32" 
       keras_ver = "<=2.3.0"
 
 
